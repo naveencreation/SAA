@@ -1,0 +1,8 @@
+.env
+.venv
+__pycache__
+Storage
+docker-entrypoint.sh
+important
+frontend
+project-docs
